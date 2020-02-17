@@ -1,3 +1,5 @@
+@charset "UTF-8";
+/* CSS Document */
 h1 {
 	font-size: 30px;
 	color: teal;}
@@ -20,4 +22,7 @@ h2 {color: green;}
 }
 h1 span{
 	color: violet;
+}
+
+@media (max-width: 1713px){
 }
